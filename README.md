@@ -1,2 +1,0 @@
-# security Lesson
-# from Techlore
